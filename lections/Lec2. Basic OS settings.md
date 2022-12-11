@@ -85,3 +85,5 @@
 Windows - GUI и глобальные права, распределение прав доступа к файловой системе (ACL)
 
 Linux - консоль, распределение прав доступа (ACL и стандартные), глобальные права.
+
+###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/new/main/lections#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-2)
