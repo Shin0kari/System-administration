@@ -65,4 +65,4 @@
 
 Одной из частых ошибок при установке ПО является редкое выполнение обновления информации о репозитории. При этом версия пакетов в репозитории меняется и они не могут быть загружены. Во всех таких случаях до поиска неисправлностей нужно попробовать скачайть новое содержание и попробовать установить пакет ещё раз.
 
-###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/new/main/lections#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-%D0%B4%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE-%D0%BF%D0%BE-%D0%B2-linux)
+###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec8.%20Installing%20additional%20software%20on%20Linux.md#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-%D0%B4%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE-%D0%BF%D0%BE-%D0%B2-linux)
