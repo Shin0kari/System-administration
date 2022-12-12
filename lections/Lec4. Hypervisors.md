@@ -2,18 +2,18 @@
 
 # Темы, затронутые в лекции 4: 
 
-1. [`Общие сведения`]([https://github.com/Shin0kari/System-administration/new/main/lections#%D0%BA%D1%80%D1%83%D0%B3-%D0%BE%D0%B1%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0](https://github.com/Shin0kari/System-administration/new/main/lections#%D0%BE%D0%B1%D1%89%D0%B8%D0%B5-%D1%81%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F)
+1. [`Общие сведения`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec4.%20Hypervisors.md#%D0%BE%D0%B1%D1%89%D0%B8%D0%B5-%D1%81%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F)
 
-1. [`HyperV`](https://github.com/Shin0kari/System-administration/new/main/lections#hyperv)
+1. [`HyperV`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec4.%20Hypervisors.md#hyperv)
 
-1. [`KVM`](https://github.com/Shin0kari/System-administration/new/main/lections#kvm)
+1. [`KVM`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec4.%20Hypervisors.md#kvm)
 
-1. [`Системы управления ВМ`](https://github.com/Shin0kari/System-administration/new/main/lections#%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2%D0%BC)
+1. [`Системы управления ВМ`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec4.%20Hypervisors.md#%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2%D0%BC)
 
 ***
 
 ## Общие сведения.
-###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/new/main/lections#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-4)
+###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec4.%20Hypervisors.md#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-4)
 
 Виртуальные машины (ВМ) представляют из себя изолированные окружения, 
 в которых можно запускать различные операционные системы на одном физическом сервере. 
@@ -29,7 +29,7 @@
 Далее расмотрим часть из них.
 
 ## HyperV.
-###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/new/main/lections#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-4)
+###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec4.%20Hypervisors.md#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-4)
 
 HyperV устанавливается как роль в Windows Server или через добавление компонентов Windows в настольных редакциях.
 
@@ -44,7 +44,7 @@ HyperV устанавливается как роль в Windows Server или �
 Но они требуею других драйверов и не совместимы с некоторыми гостевыми ОС в отличии от первой.
 
 ## KVM.
-###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/new/main/lections#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-4)
+###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec4.%20Hypervisors.md#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-4)
 
 Для установки KVM в debian stretch понадобится несколько пакетов: 
 `qemu-kvm` `libvirt-clients` `libvirt-daemon` `virt-manager`.
@@ -55,7 +55,7 @@ HyperV устанавливается как роль в Windows Server или �
 Для работы простейшей работы создаётся мост, позволяющий выйти в сеть использую IP адрес гипервизора и технологию NAT.
 
 ## Системы управления ВМ.
-###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/new/main/lections#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-4)
+###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec4.%20Hypervisors.md#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-4)
 
 Кроме гипервизора для работы с большим количеством ВМ требуется специальное ПО.
 
@@ -66,4 +66,4 @@ HyperV устанавливается как роль в Windows Server или �
 
 Примером такого ПО является VmWare Sphere, MS SystemCenter, Proxmox, oVirt.
 
-###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/new/main/lections#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-4)
+###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec4.%20Hypervisors.md#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-4)
