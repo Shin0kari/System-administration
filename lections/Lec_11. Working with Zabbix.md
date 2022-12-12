@@ -9,7 +9,7 @@
 ***
 
 ## Общие сведения.
-###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/edit/main/lections/Lec_11.%20Working%20with%20Zabbix.md#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-11)
+###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec_11.%20Working%20with%20Zabbix.md#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-11)
 
 Существует много систем для мониторинга оборудования, операционных систем и информационных систем в целом.
 
@@ -34,7 +34,7 @@ IPMI - интерфейс для управления и мониторинга 
 Полученные данные можно использовать для оценки бесперебойности работы системы, поиска узких мест и оптимизации, быстрого реагирования на проишествия.
 
 ## Установка и настройка.
-###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/edit/main/lections/Lec_11.%20Working%20with%20Zabbix.md#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-11)
+###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec_11.%20Working%20with%20Zabbix.md#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-11)
 
 Для работы системы обычно используется:
 
@@ -56,4 +56,4 @@ IPMI - интерфейс для управления и мониторинга 
 
 Кроме элементов данных можно созадвать их графическое представление - графики. Для большей наглядности графики и данные текстового мониторинга можно объединять в комплексные экраны.
 
-###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/edit/main/lections/Lec_11.%20Working%20with%20Zabbix.md#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-11)
+###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec_11.%20Working%20with%20Zabbix.md#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-11)
