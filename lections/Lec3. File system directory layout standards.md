@@ -1,13 +1,13 @@
 # Стандарты на расположение каталогов файловой системы
 # Темы, затронутые в лекции 3: 
 
-1. [`Круг обязанностей системного администратора`](https://github.com/Shin0kari/System-administration/new/main/lections#windows)
-1. [`Круг обязанностей системного администратора`](https://github.com/Shin0kari/System-administration/new/main/lections#linux)
+1. [`Windows`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec3.%20File%20system%20directory%20layout%20standards.md#windows)
+1. [`Linux`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec3.%20File%20system%20directory%20layout%20standards.md#linux)
 
 ***
 
 ## Windows.
-###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/new/main/lections#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-3)
+###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec3.%20File%20system%20directory%20layout%20standards.md#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-3)
 
 Рассмотрим настройки по умолчанию.
 Важно помнить: **прописные и строчные буквы в Windows в названиях каталогов и переменных окружения не различаются**
@@ -45,7 +45,7 @@ pagefile.sys - файл подкачки, используемый для рас
 Внутри своего каталога программа может располагать файлы и каталоги как угодно.
 
 ## Linux.
-###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/new/main/lections#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-3)
+###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec3.%20File%20system%20directory%20layout%20standards.md#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-3)
 
 Правила, которые придерживаются всеми дистрибутивами:
 
@@ -97,4 +97,4 @@ pagefile.sys - файл подкачки, используемый для рас
 **/proc** - содержит файлы, соответствующие процессам и текущим настройкам ядра
 **/sys** - используется для доступа к ресурсам ядра.
 
-###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/new/main/lections#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-3)
+###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec3.%20File%20system%20directory%20layout%20standards.md#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-3)
