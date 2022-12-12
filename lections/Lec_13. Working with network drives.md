@@ -11,7 +11,7 @@
 ***
 
 ## Сетевые диски в сетях Microsoft.
-###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/new/main/lections#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-1)
+###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec_13.%20Working%20with%20network%20drives.md#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-1)
 
 При использовании MS AD для централизованной авторизации и аутентификации практически всегда создаётся один или несколько сетевых дисков для хранения информации пользователей на сервере.
 
@@ -34,7 +34,7 @@
 Знание существующих версий необходимо, так как сейчас можно встретить системы с разной версией протокола. В версии 1,0 и используемых в ней протоколах NTLM найдено множество уязвимостей, которые уже не могут быть исправлены и едиснственным способом защиты является переход на новую версию.
 
 ## Создание сетевых дисков в Windows Server 2012r2.
-###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/new/main/lections#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-1)
+###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec_13.%20Working%20with%20network%20drives.md#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-1)
 
 Все необходимые компоненты для работы сетевых дисков устанавливаются в Windows Server вместе с операционной системой. Для создания сетевых дисков можно воспользоваться двумя путями:
 
@@ -64,7 +64,7 @@
 Оба рассматриваемых способа позволяют создать сетевой диск и выделить права доступа к нему. Для управлением правами доступа внутри сетевого диска понадобится менять права на доступ к объектам файловой системы.
 
 ## Создание сетевых дисков с использованием протокола SMB в GNU/Linux.
-###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/new/main/lections#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-1)
+###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec_13.%20Working%20with%20network%20drives.md#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-1)
 
 Для создания сетевых дисков в GNU/Linux можно использовать два протокола и, соответственно, две отдельные службы.
 
@@ -78,4 +78,4 @@
 
 После корректной настройки предоставляемые сетевые диски можно будет настраивать и обслуживать с клиентов MS Windows, как и при использовании родных серверов.
 
-###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/new/main/lections#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-1)
+###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec_13.%20Working%20with%20network%20drives.md#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-1)
