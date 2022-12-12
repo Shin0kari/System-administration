@@ -2,20 +2,20 @@
 
 # Темы, затронутые в лекции 6: 
 
-1. [`Начало`](https://github.com/Shin0kari/System-administration/new/main/lections#%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%BE)
+1. [`Начало`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec6.%20Minimum%20system%20requirements%20and%20OS%20installation.md#%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%BE)
 
-1. [`Для Windows 10`](https://github.com/Shin0kari/System-administration/new/main/lections#%D0%B4%D0%BB%D1%8F-windows-10)
+1. [`Для Windows 10`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec6.%20Minimum%20system%20requirements%20and%20OS%20installation.md#%D0%B4%D0%BB%D1%8F-windows-10)
 
-1. [`Windows Server 2012`](https://github.com/Shin0kari/System-administration/new/main/lections#windows-server-2012)
+1. [`Windows Server 2012`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec6.%20Minimum%20system%20requirements%20and%20OS%20installation.md#windows-server-2012)
 
-1. [`Для Windows Server 2016`](https://github.com/Shin0kari/System-administration/new/main/lections#%D0%B4%D0%BB%D1%8F-windows-server-2016)
+1. [`Для Windows Server 2016`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec6.%20Minimum%20system%20requirements%20and%20OS%20installation.md#%D0%B4%D0%BB%D1%8F-windows-server-2016)
 
-1. [`Debian GNU/Linux 9`](https://github.com/Shin0kari/System-administration/new/main/lections#debian-gnulinux-9)
+1. [`Debian GNU/Linux 9`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec6.%20Minimum%20system%20requirements%20and%20OS%20installation.md#debian-gnulinux-9)
 
 ***
 
 ## Начало.
-###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/new/main/lections#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-6)
+###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec6.%20Minimum%20system%20requirements%20and%20OS%20installation.md#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-6)
 
 Каждая ОС имеет минимальные требования к оборудованию, на котором она может работать. 
 Это достаточные ресурсы для функционирования самой ОС и утилит её обслуживания. 
@@ -23,7 +23,7 @@
 Как правило именно используемое ПО определяет оборудование, которое будет закупаться и использоваться для установки ОС.
 
 ## Для Windows 10.
-###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/new/main/lections#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-6)
+###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec6.%20Minimum%20system%20requirements%20and%20OS%20installation.md#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-6)
 
 * Процессор с частотой не менее 1ГГц. 
 * Количество оперативной памяти минимум 1Гб для 32-х разрядной версии и 2Гб для 64-х.
@@ -35,7 +35,7 @@
 Например, голосовой помощник потребует наличия звуковой карты.
 
 ## Windows Server 2012.
-###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/new/main/lections#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-6)
+###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec6.%20Minimum%20system%20requirements%20and%20OS%20installation.md#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-6)
 
 * Процессор 64-х разрядный с частотой 1.4 ГГц
 * ОЗУ минимум  512 Мб.
@@ -53,14 +53,14 @@
 Для сервера обновления безопасности являются критичными и поэтому доступ к сети выносится отдельным пунктом.
 
 ## Для Windows Server 2016.
-###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/new/main/lections#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-6)
+###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec6.%20Minimum%20system%20requirements%20and%20OS%20installation.md#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-6)
 
 Добавляется требования поддержки процессором инструкций NX, DEP, CMPXCHG16b, LAHF/SAHF и PrefetchW. 
 А так же второго уровня трансляции адресов с использованием EPT or NPT. 
 Для памяти добавляется требование наличия коррекции ошибок (ECC).
 
 ## Debian GNU/Linux 9.
-###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/new/main/lections#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-6)
+###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec6.%20Minimum%20system%20requirements%20and%20OS%20installation.md#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-6)
 
 Ситуация с Linux более сложная. Существуют минимальные и рекомендованные требования для стандартной установки:
 
@@ -99,4 +99,4 @@ s390x: (z/Architecture с 64-х разрядным пользовательск�
 В случае работы в консольном интерфейсе можно вообще обойтись без неё. 
 Для графического лучше иметь современную видеокарту для быстрой отрисовки интерфейса.
 
-###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/new/main/lections#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-6)
+###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec6.%20Minimum%20system%20requirements%20and%20OS%20installation.md#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-6)
