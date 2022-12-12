@@ -2,7 +2,7 @@
 
 # Темы, затронутые в лекции 1: 
 
-1. [`Сетевые диски в сетях Microsoft`](https://github.com/Shin0kari/System-administration/new/main/lections#%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D0%B5-%D0%B4%D0%B8%D1%81%D0%BA%D0%B8-%D0%B2-%D1%81%D0%B5%D1%82%D1%8F%D1%85-microsoft)
+1. [`Сетевые диски в сетях Microsoft`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec_13.%20Working%20with%20network%20drives.md#%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D0%B5-%D0%B4%D0%B8%D1%81%D0%BA%D0%B8-%D0%B2-%D1%81%D0%B5%D1%82%D1%8F%D1%85-microsoft)
 
 1. [`Создание сетевых дисков в Windows Server 2012r2`](https://github.com/Shin0kari/System-administration/new/main/lections#%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D1%85-%D0%B4%D0%B8%D1%81%D0%BA%D0%BE%D0%B2-%D0%B2-windows-server-2012r2)
 
