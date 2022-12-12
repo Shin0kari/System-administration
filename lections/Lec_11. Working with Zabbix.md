@@ -2,7 +2,7 @@
 
 # Темы, затронутые в лекции 11: 
 
-1. [`Общие сведения`](https://github.com/Shin0kari/System-administration/edit/main/lections/Lec_11.%20Working%20with%20Zabbix.md#%D0%BE%D0%B1%D1%89%D0%B8%D0%B5-%D1%81%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F)
+1. [`Общие сведения`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec_11.%20Working%20with%20Zabbix.md#%D0%BE%D0%B1%D1%89%D0%B8%D0%B5-%D1%81%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F)
 
 1. [`Установка и настройка`](https://github.com/Shin0kari/System-administration/edit/main/lections/Lec_11.%20Working%20with%20Zabbix.md#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-%D0%B8-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0)
 
