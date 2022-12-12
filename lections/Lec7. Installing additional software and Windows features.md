@@ -1,12 +1,5 @@
 # Установка дополнителного ПО и компонентов Windows
 
-# Темы, затронутые в лекции 7: 
-
-1. [`Начало`](https://github.com/Shin0kari/System-administration/new/main/lections#%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%BE) :)
-
-## Начало.
-###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/new/main/lections#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-7)
-
 Существует два варианта установки дополнительного ПО для Windows. 
 
 Первый - добавление компонентов Windows, расширяющих её функциональность.
@@ -39,4 +32,4 @@
 С другой стороны это компенсируется наличием коммерческой поддержки на имеющиеся компоненты 
 и хоть какой-то подтверждённой гарантией решения проблем.
 
-###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/new/main/lections#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-7)
+###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec7.%20Installing%20additional%20software%20and%20Windows%20features.md#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-7)
