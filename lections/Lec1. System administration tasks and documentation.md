@@ -2,18 +2,18 @@
 
 # Темы, затронутые в лекции 1: 
 
-1. [`Круг обязанностей системного администратора`](https://github.com/Shin0kari/System-administration/new/main#%D0%BA%D1%80%D1%83%D0%B3-%D0%BE%D0%B1%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0)
+1. [`Круг обязанностей системного администратора`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec1.%20System%20administration%20tasks%20and%20documentation.md#%D0%BA%D1%80%D1%83%D0%B3-%D0%BE%D0%B1%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0)
 
-2. [`Документация`](https://github.com/Shin0kari/System-administration/new/main#%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F)
+2. [`Документация`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec1.%20System%20administration%20tasks%20and%20documentation.md#%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F)
 
-3. [`Отслеживание времени`](https://github.com/Shin0kari/System-administration/new/main#%D0%BE%D1%82%D1%81%D0%BB%D0%B5%D0%B6%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8)
+3. [`Отслеживание времени`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec1.%20System%20administration%20tasks%20and%20documentation.md#%D0%BE%D1%82%D1%81%D0%BB%D0%B5%D0%B6%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8)
 
-4. [`Закупки`](https://github.com/Shin0kari/System-administration/edit/main/lections/System%20administration%20tasks%20and%20documentation.md#%D0%B7%D0%B0%D0%BA%D1%83%D0%BF%D0%BA%D0%B8)
+4. [`Закупки`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec1.%20System%20administration%20tasks%20and%20documentation.md#%D0%B7%D0%B0%D0%BA%D1%83%D0%BF%D0%BA%D0%B8)
 
 ***
 
 ## Круг обязанностей системного администратора.
-###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/new/main#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-1).
+###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec1.%20System%20administration%20tasks%20and%20documentation.md#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-1)
 
 С должностью "Системный администратор" связаны такие задачи как обслуживание вычислительной техники, локальных вычислительных сетей, офисной техники и информационных систем.  
 
@@ -22,7 +22,7 @@
 Существует ряд действий, не относящаяся к работе сисадмина, но которую необходимо выполнять.
 
 ## Документация.
-###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/new/main#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-1).
+###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec1.%20System%20administration%20tasks%20and%20documentation.md#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-1)
 
 
 Сисадмину нужно вести документацию по обслуживаемой инфраструктуры. 
@@ -41,12 +41,12 @@
 Единственное обязательное требование - наличие содержания для быстрой навигации и возможность экспортировать в печатный вид (pdf).
 
 ## Отслеживание%времени.
-###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/new/main#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-1).
+###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec1.%20System%20administration%20tasks%20and%20documentation.md#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-1)
 
 Многие задачи требуют не просто выполнения работы, а выполнения её в точные сроки. Как и документация управление временем не специфично для системного администрирования.
 
 ## Закупки.
-###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/new/main#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-1).
+###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec1.%20System%20administration%20tasks%20and%20documentation.md#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-1)
 
 Кроме поддержки инфраструктуру необходимо планировать её ремонт и развитие. 
 Для этого потребуется выбирать оборудование и сервисы под имеющиеся у вас задачи. 
@@ -97,4 +97,4 @@
 Главное видно, что не все затраты лежат на поверхности и некоторые решения могут стоить дорого, 
 несмотря на свою привлекательность.
 
-###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/new/main#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-1).
+###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec1.%20System%20administration%20tasks%20and%20documentation.md#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-1)
