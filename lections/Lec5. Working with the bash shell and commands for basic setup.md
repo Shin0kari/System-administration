@@ -2,22 +2,22 @@
 
 # Темы, затронутые в лекции 5: 
 
-1. [`Командные интерпретаторы`](https://github.com/Shin0kari/System-administration/new/main/lections#%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D1%8B%D0%B5-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BF%D1%80%D0%B5%D1%82%D0%B0%D1%82%D0%BE%D1%80%D1%8B)
+1. [`Командные интерпретаторы`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec5.%20Working%20with%20the%20bash%20shell%20and%20commands%20for%20basic%20setup.md#%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D1%8B%D0%B5-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BF%D1%80%D0%B5%D1%82%D0%B0%D1%82%D0%BE%D1%80%D1%8B)
 
-1. [`Основные команды для работы в терминале`](https://github.com/Shin0kari/System-administration/new/main/lections#%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B-%D0%B4%D0%BB%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%B2-%D1%82%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB%D0%B5)
+1. [`Основные команды для работы в терминале`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec5.%20Working%20with%20the%20bash%20shell%20and%20commands%20for%20basic%20setup.md#%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B-%D0%B4%D0%BB%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%B2-%D1%82%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB%D0%B5)
 
-1. [`Сетевые настройки`](https://github.com/Shin0kari/System-administration/new/main/lections#%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D0%B5-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8)
+1. [`Сетевые настройки`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec5.%20Working%20with%20the%20bash%20shell%20and%20commands%20for%20basic%20setup.md#%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D0%B5-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8)
 
-1. [`Работа с пользователями`](https://github.com/Shin0kari/System-administration/new/main/lections#%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D0%BC%D0%B8)
+1. [`Работа с пользователями`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec5.%20Working%20with%20the%20bash%20shell%20and%20commands%20for%20basic%20setup.md#%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D0%BC%D0%B8)
 
-1. [`Дополнительные возможности`](https://github.com/Shin0kari/System-administration/new/main/lections#%D0%B4%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%B2%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8)
+1. [`Дополнительные возможности`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec5.%20Working%20with%20the%20bash%20shell%20and%20commands%20for%20basic%20setup.md#%D0%B4%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%B2%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8)
 
-1. [`Права доступа к объектам файловой системы`](https://github.com/Shin0kari/System-administration/new/main/lections#%D0%BF%D1%80%D0%B0%D0%B2%D0%B0-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0-%D0%BA-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%B0%D0%BC-%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%BE%D0%B9-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B)
+1. [`Права доступа к объектам файловой системы`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec5.%20Working%20with%20the%20bash%20shell%20and%20commands%20for%20basic%20setup.md#%D0%BF%D1%80%D0%B0%D0%B2%D0%B0-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0-%D0%BA-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%B0%D0%BC-%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%BE%D0%B9-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B)
 
 ***
 
 ## Командные интерпретаторы.
-###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/new/main/lections#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-5)
+###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec5.%20Working%20with%20the%20bash%20shell%20and%20commands%20for%20basic%20setup.md#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-5)
 
 Существует два варианта построения пользовательского интерфейса - графический (GUI) и командной строки (терминал). 
 
@@ -49,7 +49,7 @@ GUI является более сложным в разработке и тре
 Рассмотрим основы для работы в bash
 
 ## Основные команды для работы в терминале.
-###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/new/main/lections#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-5)
+###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec5.%20Working%20with%20the%20bash%20shell%20and%20commands%20for%20basic%20setup.md#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-5)
 
 Приведённые ниже команды являются базовыми для манипуляций с файлами и повседневной работы.
 
@@ -70,7 +70,7 @@ GUI является более сложным в разработке и тре
 который обозначает полный путь к текущему каталогу. 
 
 ## Сетевые настройки.
-###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/new/main/lections#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-5)
+###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec5.%20Working%20with%20the%20bash%20shell%20and%20commands%20for%20basic%20setup.md#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-5)
 
 Для ручного управления сетевыми настройками используется утилита **ip**. 
 У неё есть обязательный параметр, который указывает, с какими настройками мы хотим работать. 
@@ -95,14 +95,14 @@ GUI является более сложным в разработке и тре
 или запрос к записям типа srv или mx.
 
 ## Работа с пользователями.
-###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/new/main/lections#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-5)
+###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec5.%20Working%20with%20the%20bash%20shell%20and%20commands%20for%20basic%20setup.md#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-5)
 
 Работа с пользователями и группами происходит с помощью команд **adduser/addgroup/deluser/useradd/usermod**
 
 Изменение паролей происходит с помощью команды **passwd**. Создание хешей паролей  - **mkpasswd**.
 
 ## Дополнительные возможности.
-###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/new/main/lections#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-5)
+###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec5.%20Working%20with%20the%20bash%20shell%20and%20commands%20for%20basic%20setup.md#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-5)
 
 Часть настроек можно передавать программам в виде переменных окружения. 
 По функционалу они аналогичны переменным в языках программирования.
@@ -139,7 +139,7 @@ bash позволяет организовать работу с несколь�
 Без параметров **fg** подключается к последней отправленной в фон программе, с указанием номера задачи.
 
 ## Права доступа к объектам файловой системы.
-###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/new/main/lections#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-5)
+###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec5.%20Working%20with%20the%20bash%20shell%20and%20commands%20for%20basic%20setup.md#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-5)
 
 В Linux права доступа к объектам файловой системы делятся на три группы - **для владельца**, **группы** и **всех остальных**. 
 В каждой из груп может быть 3 бита доступа: **на чтение (r)**, **запись (w)**, **изменение (e)** и **удаление (x)**.
@@ -156,4 +156,4 @@ bash позволяет организовать работу с несколь�
 
 **chmod** в качетсве параметров передаются изменения в текущих правах для кадой из трёх групп доступа или для всех сразу. 
 
-###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/new/main/lections#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-5)
+###### [`Вернутся вверх`](https://github.com/Shin0kari/System-administration/blob/main/lections/Lec5.%20Working%20with%20the%20bash%20shell%20and%20commands%20for%20basic%20setup.md#%D1%82%D0%B5%D0%BC%D1%8B-%D0%B7%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-5)
